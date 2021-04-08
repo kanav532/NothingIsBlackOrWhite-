@@ -1,1 +1,1 @@
-# NothingIsBlackorWhite
+# NothingIsBlackOrWhite
