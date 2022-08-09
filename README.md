@@ -36,4 +36,8 @@ This problem has no exact solution yet, because there is no deterministic relati
 
 ## Deployment
 
- /mnt/c/Users/Kanav/Desktop/Portfolio_Projects/NothingIsBlackOrWhite-/React App Demo.mp4
+
+
+https://user-images.githubusercontent.com/47704494/183753161-c5ac7e4e-ca90-43fd-a9e7-a05c64086156.mp4
+
+
